@@ -1,21 +1,6 @@
 # IntelHARP
 Projeto intel
 
-jppnovais@ssh-iam.intel-research.net
-
-scp harp_opencl-master jppnovais@ssh-iam.intel-research.net:/homes/jppnovais/projetoIntel
-
-source /export/fpga/bin/setup-fpga-env fpga-bdx-opencl
-
-qsub-fpga
-
-make
-
-//criar binfile
-qsub-aoc fca_device.cl
-
-
-
 #Tutorial: 
 
 https://wiki.intel-research.net/FPGA.html#config-label
