@@ -1,0 +1,15 @@
+/fca_device/
+
+fca_device.aocx
+
+fca_device.aoco
+
+build*
+
+PRbitstream_temp.rbf
+
+1*
+
+old*
+
+fca

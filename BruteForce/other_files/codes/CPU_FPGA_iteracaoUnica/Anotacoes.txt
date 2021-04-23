@@ -1,0 +1,8 @@
+Este código funciona semelhante ao código em VHDL, sendo que, para cada combinação de atributos, 
+o host (CPU) envia para o kernel (FPGA) esta combinação, fazendo o processamento e retornando o resultado.
+
+Prós
+-Pode ser utilizado com códigos mais inteligentes da parte do host, deixando apenas a verificação de conceitos para o kernel (FPGA).
+
+Contras
+-Não está rodando com mais de 32720 combinações, pois o código trava neste momento.

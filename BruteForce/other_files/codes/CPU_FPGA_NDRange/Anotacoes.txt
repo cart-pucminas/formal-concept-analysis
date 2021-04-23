@@ -1,0 +1,10 @@
+Este código utiliza o host (CPU) apenas para enviar todas as combinações de 1 vez para o kernel utilizando o NDRange,
+em seguida o kernel distribui a carga de acordo com o compilador, a fim de executar paralelo no FPGA.
+
+Prós
+-Performance é melhor que o kernelSequencial (CPU + FPGA)
+-Consumo de energia menor
+-Não depende de hardware caros
+
+Contras
+-Performance ainda é pior que outras abordagens inteligentes e/ou paralelas

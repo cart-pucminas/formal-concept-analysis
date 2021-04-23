@@ -1,0 +1,7 @@
+Este código funciona apenas para CPU, podendo ser executado de forma paralela
+
+Prós
+-Quanto maior a quantidade de núcleos, melhor a performance do algoritmo.
+
+Contras
+-É um algoritmo que depende da eficiência do hardware.

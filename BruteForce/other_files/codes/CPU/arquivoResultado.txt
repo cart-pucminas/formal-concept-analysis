@@ -1,0 +1,63 @@
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 3.740000  - Conceitos: 34377 
+
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 3.750000  - Conceitos: 34377 
+
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 3.560000  - Conceitos: 34377 
+
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 3.740000  - Conceitos: 34377 
+
+Testes de 1000 Objetos e 33554431 Combinacoes
+Tempo gasto: 171.500000  - Conceitos: 36981 
+
+Testes de 1000 Objetos e 33554431 Combinacoes
+Tempo gasto: 228.250000  - Conceitos: 36977 
+
+Testes de 1000 Objetos e 33554431 Combinacoes
+Tempo gasto: 227.870000  - Conceitos: 36977 
+
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 5.350000  - Conceitos: 34044 
+
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 5.080000  - Conceitos: 34044 
+
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 4.800000  - Conceitos: 33958 
+
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 5.110000  - Conceitos: 34020 
+
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 4.690000  - Conceitos: 34022 
+
+Testes de 1000 Objetos e 33554431 Combinacoes
+Tempo gasto: 272.170000  - Conceitos: 36976 
+
+Testes de 10000 Objetos e 33554431 Combinacoes
+Tempo gasto: 2742.120000  - Conceitos: 321923 
+
+Testes de 10000 Objetos e 33554431 Combinacoes
+Tempo gasto: 3386.190000  - Conceitos: 321890 
+
+Testes de 10000 Objetos e 33554431 Combinacoes
+Tempo gasto: 3377.190000  - Conceitos: 2 
+
+Testes de 10000 Objetos e 33554431 Combinacoes
+Tempo gasto: 3412.590000  - Conceitos: 321875 
+
+Testes de 10000 Objetos e 33554431 Combinacoes
+Tempo gasto: 3374.800000  - Conceitos: 321971 
+
+Testes de 10000 Objetos e 33554431 Combinacoes
+Tempo gasto: 40.000000  - Conceitos: 321971 
+
+Testes de 1000 Objetos e 33554431 Combinacoes
+Tempo gasto: 166.000000  - Conceitos: 36981 
+
+Testes de 1000 Objetos e 33554431 Combinacoes
+Tempo gasto: 149.000000  - Conceitos: 36981 
+

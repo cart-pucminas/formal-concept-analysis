@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterBanco", "ConverterBanco\ConverterBanco.csproj", "{7F99034C-971B-4030-8E3C-675E751D07EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F99034C-971B-4030-8E3C-675E751D07EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F99034C-971B-4030-8E3C-675E751D07EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F99034C-971B-4030-8E3C-675E751D07EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F99034C-971B-4030-8E3C-675E751D07EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0DEAF9-4C93-4161-AA43-7607952F2F71}
+	EndGlobalSection
+EndGlobal

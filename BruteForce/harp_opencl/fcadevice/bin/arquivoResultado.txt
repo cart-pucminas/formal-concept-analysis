@@ -1,0 +1,3 @@
+Testes de 8192 Objetos e 65535 Combinacoes
+Tempo gasto: 0.001044  - Conceitos: 2 
+

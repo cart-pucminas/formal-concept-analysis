@@ -1,0 +1,6 @@
+D:\GitHub\IntelHARP\ConverterBanco\ConverterBanco\obj\Debug\ConverterBanco.csproj.CoreCompileInputs.cache
+D:\GitHub\IntelHARP\ConverterBanco\ConverterBanco\bin\Debug\ConverterBancoSCGaz.exe.config
+D:\GitHub\IntelHARP\ConverterBanco\ConverterBanco\bin\Debug\ConverterBancoSCGaz.exe
+D:\GitHub\IntelHARP\ConverterBanco\ConverterBanco\bin\Debug\ConverterBancoSCGaz.pdb
+D:\GitHub\IntelHARP\ConverterBanco\ConverterBanco\obj\Debug\ConverterBancoSCGaz.exe
+D:\GitHub\IntelHARP\ConverterBanco\ConverterBanco\obj\Debug\ConverterBancoSCGaz.pdb

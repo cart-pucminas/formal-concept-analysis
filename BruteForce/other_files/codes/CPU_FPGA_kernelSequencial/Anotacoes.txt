@@ -1,0 +1,10 @@
+Este código utiliza o host (CPU) apenas para iniciar o kernel, sendo que,
+no kernel (FPGA) é executado todas as combinações e verificações de conceitos, 
+retornando apenas a quantidade de conceitos encontrado
+
+Prós
+-Consumo de energia menor
+-Não depende de hardware caros
+
+Contras
+-Performance ruim
